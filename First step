@@ -1,0 +1,22 @@
+Step 1 
+Register with PostMan (e-mail)
+
+Step 2
+Create your Workspace
+
+Step 3
+Create your medthod  and files
+
+
+Step 4 
+Pre-test scirpt with javascritp below:
+
+
+/** console.log(pm.collectionVariables.get("name"));
+
+pm.test("Staus Test ", function() {
+    pm.reponse.to.have.status(200)
+})
+
+
+*/ 
